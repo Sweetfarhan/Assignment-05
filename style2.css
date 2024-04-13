@@ -1,0 +1,19 @@
+
+ @font-face {
+  font-family:custom;
+  src: url(./Honk-Regular-VariableFont_MORF\,SHLN.ttf);
+ }
+ 
+ h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    text-align: justify;
+   /*font-family: custom;*/
+   font-style: italic;
+   font-weight: lighter;
+    
+
+}
+body{
+  background-color: #c4244d;
+}
